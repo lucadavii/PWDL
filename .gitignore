@@ -222,3 +222,4 @@ __marimo__/
 *.csv
 data/
 *.npy
+.DS_Store
